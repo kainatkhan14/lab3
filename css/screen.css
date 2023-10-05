@@ -65,8 +65,12 @@ input[type="checkbox"] {
   width: auto;
   vertical-align: middle;
 }
-  
 
+/* Checkbox label */
+label[for="age-verification"] {
+  display: inline;
+  margin-left: .5rem;
+}
   
   
 
