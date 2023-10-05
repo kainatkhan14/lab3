@@ -36,7 +36,15 @@ li {
   counter-increment: list-counter;
   position: relative;
 }
+
+/* Labels */
+label {
+  color: #555;
+  display: block;
+  margin-bottom: 1rem;
+}
   
+
 
   
   
