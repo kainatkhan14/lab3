@@ -44,6 +44,19 @@ label {
   margin-bottom: 1rem;
 }
   
+/* Input boxes */
+input[type="email"],
+input[type="submit"],
+input[type="checkbox"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 1rem;
+  background-color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+
+  
 
 
   
