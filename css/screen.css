@@ -55,8 +55,14 @@ input[type="checkbox"] {
   border: none;
   border-radius: 5px;
 }
-
+input[type="submit"] {
+  cursor: pointer;
+  background-color: #666666;
+  color: #fff;
+  border: none;
+}
   
+
 
 
   
