@@ -61,9 +61,11 @@ input[type="submit"] {
   color: #fff;
   border: none;
 }
+input[type="checkbox"] {
+  width: auto;
+  vertical-align: middle;
+}
   
-
-
 
   
   
