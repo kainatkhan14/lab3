@@ -25,6 +25,12 @@ p {
   margin-bottom: 1rem;
   color: #555;
 }
+
+/* List items */
+ol {
+  counter-reset: list-counter;
+}
+  
   
 
   
