@@ -30,6 +30,14 @@ p {
 ol {
   counter-reset: list-counter;
 }
+li {
+  list-style: none;
+  margin-bottom: 1rem;
+  counter-increment: list-counter;
+  position: relative;
+}
+  
+
   
   
 
